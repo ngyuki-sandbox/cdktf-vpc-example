@@ -1,0 +1,7 @@
+{
+  "language": "typescript",
+  "app": "ts-node main.ts",
+  "terraformProviders": [
+    "aws@~> 2.0"
+  ]
+}
